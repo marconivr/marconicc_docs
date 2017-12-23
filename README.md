@@ -1,2 +1,2 @@
 # MarconiCC
-MarconiCC's official repository
+MarconiCC's unofficial repository
