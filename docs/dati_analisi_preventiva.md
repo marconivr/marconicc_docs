@@ -10,21 +10,22 @@
 Studente:
 - Nome
 - Cognome
-- Data di Nascita
-- Paese di Nascita
-- Altezza
-- Immagine
-- Residenza
-- Sesso
+- Data di Nascita (dato sensibile)
+- Paese di Nascita (dato sensibile)
+- Immagine 
+- Residenza (dato sensibile)
+- Sesso da rivedere
 
 ##### Dati Sensibili
 ---
 Studente:
 - DSA
-- Religione
+- Disabilità da rivedere
+- Religione (utile???)
 - Ripetente
 - Desiderata
 - Non desiderata
 - Situazione voti passata
-- Stato di Salute
-- Situazione Economica
+
+
+Bisogna fornire una breve spiegazione della scelta di ogni singola -voce
