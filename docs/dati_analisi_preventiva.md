@@ -28,4 +28,4 @@ Studente:
 - Situazione voti passata
 
 
-Bisogna fornire una breve spiegazione della scelta di ogni singola -voce
+Bisogna fornire una breve spiegazione della scelta di ogni singola voce
