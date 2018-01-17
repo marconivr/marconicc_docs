@@ -6,7 +6,7 @@
 Studente:
 - Nome
 - Cognome
-- Sesso
+- Sesso --> Raggruppamento femminile nelle classi
 
 ##### Dati Sensibili
 - DSA --> Numero di alunni con DSA per classe
